@@ -18,7 +18,6 @@ public class EmployeeInfo {
 		sc.nextDouble();
 		System.out.print("Enter your Dept:");
 		sc.next();
-		
 	}
 	
 }
