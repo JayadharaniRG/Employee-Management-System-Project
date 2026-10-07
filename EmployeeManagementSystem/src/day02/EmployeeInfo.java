@@ -9,15 +9,15 @@ public class EmployeeInfo {
 		System.out.println("======================================");
 		System.out.println();
 		System.out.print("Enter your Name:");
-		String name = sc.next();
+		sc.next();
 		System.out.print("Enter yor Emp ID:");
-		int empno = sc.nextInt();
+		sc.nextInt();
 		System.out.print("Enter your Age:");
-		int age = sc.nextInt();
+		sc.nextInt();
 		System.out.print("Enter your Salary:");
-		double salary = sc.nextDouble();
+		sc.nextDouble();
 		System.out.print("Enter your Dept:");
-		String dept = sc.next();
+		sc.next();
 		
 	}
 	
